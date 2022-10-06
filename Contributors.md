@@ -1,7 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
-
+- [Aman Singh] (https://github.com/aman9113)
 - [Tieran Dysart](https://github.com/whyyy1)
 - [Jassim](https://github.com/jazz96)
 - [Sabohat](https://github.com/sabohat)
